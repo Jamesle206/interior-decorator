@@ -1,0 +1,41 @@
+h1 {
+  color: red;
+  text-align: center;
+}
+
+img.before {
+  width: 300px;
+  float: left;
+}
+.before {
+   width: 300px;
+   float: left;
+}
+
+img.during {
+   width: 300px;
+   float: left;
+
+}
+.during {
+    width: 300px;
+    float: left;
+}
+
+img.after {
+    width: 300px;
+    float: left;
+}
+.after {
+     width: 300px;
+     float: left;
+}
+
+h2 {
+  text-align: center;
+}
+body {
+  text-align: center;
+  width: 99%;
+  object-fit: fill;
+}
