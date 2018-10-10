@@ -6,10 +6,12 @@ h1 {
 img.before {
   width: 300px;
   float: left;
+  background-color: #F7C20E;
 }
 .before {
    width: 300px;
    float: left;
+   background-color: #F7C20E;
 }
 
 img.during {
@@ -20,6 +22,7 @@ img.during {
 .during {
     width: 300px;
     float: left;
+    background-color: #DBF70E
 }
 
 img.after {
@@ -29,6 +32,7 @@ img.after {
 .after {
      width: 300px;
      float: left;
+     background-color: #4EF70E
 }
 
 h2 {
